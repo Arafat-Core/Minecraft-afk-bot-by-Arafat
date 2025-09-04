@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "BOT01", 
+    "username": "BOT_chan_69", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "NXTDON.aternos.me", 
-    "port": 35692,   
+    "ip": "BAEC02.aternos.me", 
+    "port": 53468,   
     "version": "1.12.1"   
   },
   
@@ -36,7 +36,7 @@
 
       "messages": [
         "Hello! Survivors",
-        "Subscibe To NXTDON :>!",
+        "Arafat ar bot Chan is Hear :>!",
         "I Like to Play Minecraft!"
       ]
     },
